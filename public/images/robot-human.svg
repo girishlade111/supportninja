@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Desk -->
+  <rect x="40" y="200" width="320" height="20" rx="4" fill="#9CA3AF"/>
+  <rect x="60" y="220" width="16" height="60" rx="2" fill="#6B7280"/>
+  <rect x="324" y="220" width="16" height="60" rx="2" fill="#6B7280"/>
+
+  <!-- Human figure -->
+  <circle cx="130" cy="110" r="28" fill="#6B7280"/>
+  <path d="M90 200c0-30 20-50 40-50s40 20 40 50v20H90v-20z" fill="#4B5563"/>
+  <rect x="115" y="155" width="80" height="45" rx="6" fill="#10B981"/>
+
+  <!-- Robot figure -->
+  <rect x="230" y="85" width="70" height="60" rx="10" fill="#9CA3AF"/>
+  <circle cx="252" cy="110" r="6" fill="#10B981"/>
+  <circle cx="278" cy="110" r="6" fill="#EF4444"/>
+  <rect x="255" y="125" width="20" height="4" rx="2" fill="#4B5563"/>
+  <rect x="258" y="60" width="14" height="25" rx="2" fill="#6B7280"/>
+  <circle cx="265" cy="55" r="8" fill="#EF4444"/>
+  <path d="M235 145v40h-10v20" stroke="#6B7280" stroke-width="8" stroke-linecap="round"/>
+  <path d="M295 145v40h10v20" stroke="#6B7280" stroke-width="8" stroke-linecap="round"/>
+  <path d="M250 170c0-15 15-25 30-25s30 10 30 25v50H250v-50z" fill="#4B5563"/>
+
+  <!-- Shared laptop -->
+  <rect x="165" y="175" width="70" height="45" rx="4" fill="#374151"/>
+  <rect x="170" y="180" width="60" height="35" rx="2" fill="#D1D5DB"/>
+  <circle cx="180" cy="190" r="4" fill="#EF4444"/>
+  <circle cx="195" cy="190" r="4" fill="#10B981"/>
+</svg>
