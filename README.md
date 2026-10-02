@@ -256,3 +256,6 @@ MIT License - feel free to use for personal or commercial projects.
 ---
 
 Built with ❤️ using Next.js 15 and modern web technologies.
+---
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
